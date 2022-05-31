@@ -16,7 +16,7 @@ function div(number1, number2) {
 
 const number1 = parseInt(prompt("Enter a number:")); 
 const number2 = parseInt(prompt("Enter another Number:"));
-const result = mult(number1, number2);
+const result = div(number1, number2);
 
 
 
