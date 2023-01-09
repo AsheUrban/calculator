@@ -25,3 +25,10 @@ const number2 = parseInt(prompt("Enter another Number:"));
 const result = mult(number1, number2);
 
 alert(result);
+
+
+// Alternatively...
+// window.alert("The difference of your numbers =" + subtract(number1, number2) + ".");
+// window.alert("The sum of your numbers =" + add(number1, number2) + ".");
+// window.alert("The remainder of your numbers =" + div(number1, number2) + ".");
+// window.alert("The product of your numbers =" + mult(number1, number2) + ".");
