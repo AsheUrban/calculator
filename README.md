@@ -16,7 +16,7 @@ _This calculator asks the user for 2 numbers and then performs addition, subtrac
 
 ## Setup/Installation Requirements
 
-* _clone down to your local respository and run._
+Clone or download to your local repository. No special setup or configuration.
 
 ## Known Bugs
 
